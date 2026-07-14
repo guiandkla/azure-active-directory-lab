@@ -21,15 +21,11 @@ O laboratório foi desenvolvido seguindo boas práticas de infraestrutura utiliz
 
 ## Arquitetura Inicial
 
-Azure Subscription
-│
-├── Resource Group
-│
-├── Virtual Network
-│
-├── Domain Controller
-│
-└── Futuro Cliente Windows 11
+- 1.0 Azure Subscription
+   - 1.1 Resource Group
+   - 1.2 Virtual Network
+   - 1.3 Domain Controller
+   - 1.4 Cliente Windows 11
 
 ---
 

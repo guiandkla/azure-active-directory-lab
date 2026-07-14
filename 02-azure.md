@@ -53,6 +53,10 @@ A VM será utilizada como primeiro Controlador de Domínio da infraestrutura.
 ## Capturas de Tela
 
 - Resource Group
-- Virtual Network
+<img width="1908" height="787" alt="Screenshot 2026-07-13 174144" src="https://github.com/user-attachments/assets/10a0bd43-52f6-4b8e-9d58-befdc5dfb9bc" />
+
 - Máquina Virtual
-- Configuração de Rede
+<img width="1907" height="919" alt="Screenshot 2026-07-13 173909" src="https://github.com/user-attachments/assets/adbb42fa-489b-438c-b3f8-949edbf08f2e" />
+
+- Virtual Network
+<img width="1896" height="924" alt="Screenshot 2026-07-13 174534" src="https://github.com/user-attachments/assets/2d77ff56-aa30-4edb-ac39-30dfc96ac16d" />
